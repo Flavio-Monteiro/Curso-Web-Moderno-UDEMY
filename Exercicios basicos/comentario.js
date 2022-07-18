@@ -10,4 +10,5 @@
     console.log(2*7);
     console.log(2*8);
     console.log(2*9);
+    
 }
